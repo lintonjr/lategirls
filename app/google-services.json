@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "601659822642",
+    "project_id": "fir-login-8f89a",
+    "storage_bucket": "fir-login-8f89a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:601659822642:android:b5040a1ef6b82d352aa22b",
+        "android_client_info": {
+          "package_name": "com.motoacademy.lablogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "601659822642-tq5vll4kctn801d16riam7at1986aol5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDChK3e0MeH5r3dD0Fc5fjNmGC-MhjeOpY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "601659822642-tq5vll4kctn801d16riam7at1986aol5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
